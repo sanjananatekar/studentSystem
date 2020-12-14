@@ -1,0 +1,99 @@
+.body2{
+            background-image: none;
+             font-family: 'Roboto Slab', serif;
+        }
+        
+        
+        #mainHeader{
+        background-color:#008080;
+        }
+        
+        #mainheader h1{
+            color: black;
+            background-color: white;
+        }
+        
+        .body2 h2{
+            color: white;
+        }
+      
+      nav{
+    height: 80px;
+    width: 100%;
+}
+ nav ul{
+ float: right;
+ margin-right: auto;
+ list-style: none;
+}
+nav ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+    font-family: 'oxygen',sans-serif;
+    
+}
+
+nav ul li a{
+    background-color: white;
+    color: #008080 ;
+    font-size: 17px;
+    text-transform: uppercase;
+    padding: 7px 13px;
+    border-radius: 3px;
+    
+}
+
+nav a:hover
+{
+    background: #F0C993;
+}
+h1{
+    font-family: 'Roboto Slab', serif;
+}
+#mainh1{
+    color: gray;
+    font-size: 30px;
+    margin-bottom: 0%;
+    margin-top: 1%;
+}
+#mainh2{
+    color: #008080;
+    font-size: 20px;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+#img5{
+    margin-top: 0px;
+    margin-left: 1%;
+    padding-bottom:  20px;
+    width: 10%;
+    height:100%;
+    float: left;
+}
+#mainheader{
+    
+    background-color: #008080;
+    font-size: 20px;
+    text-align: center;
+    text-decoration:solid;
+    width: 30%;
+    height: 70%;
+    margin: 10px;
+    margin-left: 28%;
+    margin-top: 1%;
+    margin-right: 15px;
+    display: inline-block;  
+}
+#footer{
+    background-color: #008080;
+    height: 200px;
+    
+}
+#footer ul{
+    color: white;
+}
+#footer ul a{
+    color: white;
+}
+

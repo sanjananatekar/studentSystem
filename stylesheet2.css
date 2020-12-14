@@ -1,0 +1,53 @@
+.vbody{
+   
+    font-family: 'Roboto Slab', serif;
+}
+#vheader{
+    background-color: #008080;
+    color: white;
+    padding-left: 650px;
+    padding-bottom: 30px;
+}
+#news{
+     font-family: 'Roboto Slab', serif;
+    font-size: 20px;
+    text-align: center;
+    text-decoration:solid;
+    width: 30%;
+    height: 60%;
+    border: 2px solid black;
+    margin: 10px;
+    margin-left: 35%;
+    margin-top: 2%;
+    margin-right: 15px;
+    display: inline-block;
+    background-color: white;
+    
+  }
+ 
+ label {
+  width:200px;
+  display: inline-block;
+}
+#button{
+    background-color: #008080;
+    color: white;
+    height:50px;
+    width:40%;
+    text-align: center;
+}
+a{
+    color: black;
+    
+     
+}
+a:hover
+{
+    background: #F0C993;
+}
+#flabel{
+    padding-left: 40px;
+}
+#welcomeImg{
+    width: 80%;
+}
